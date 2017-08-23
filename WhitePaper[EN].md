@@ -223,7 +223,7 @@ Our mission is to deliver all the tools necessary for the industry to shift to n
 
 Before starting to develop our platform, we looked into building an online casino utilizing a smart contract and BlindCroupier's algorithms. While analyzing, we found out 3 major spending items:
 
-* **Software Development.** This requires focus and large investment. The return period for the investiment spent on software development is quite long, not to mention lots of games and a constant need of developing new ones for the casino to be competitive. A rule of thumb is that there is a separate industry working to deliver software for the casinos. 
+* **Software Development.** This requires focus and large investment. The return period for the investment spent on software development is quite long, not to mention lots of games and a constant need of developing new ones for the casino to be competitive. A rule of thumb is that there is a separate industry working to deliver software for the casinos. 
 
 * **Player Attraction and Retention.** This is a casino's main task, which includes manipulating a high volume of traffic and competent marketing. To fulfill its main purpose a casino needs major investment. Despite all this, if the software quality doesn't meet market requirements, a marketing campaign is going to be inefficient.
 
