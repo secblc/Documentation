@@ -7,15 +7,21 @@
 
 #### White Paper Проекта: LINK
 
-#### Узнай как проверить честность казино: LINK
+#### Техническая WP: LINK
 
-#### Узнай больше о работе алгоритма из технической WP: LINK
+#### Beta VideoPoker: LINK
+
+#### Узнай как проверить честность казино: LINK
 
 #### Смарт контракт для распределения токенов WIN: LINK
 
-#### Следите за дорожной картой проекта: LINK
+#### Road Map: LINK
 
-#### Blind Croupier в Twitter: LINK
+#### Twitter: LINK
+
+#### Telegram: LINK
+
+#### Slack: LINK
 
 #### Узнай о Баунти кампании: Link
 
