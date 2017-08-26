@@ -1,4 +1,3 @@
-# Documentation
 [<img align="left" src="https://user-images.githubusercontent.com/31250469/29744226-3f95818a-8ad3-11e7-82ae-59d756eb4d8a.jpg" width="1350">](http://blind-croupier.herokuapp.com/)
 `Если ты не знаешь где получить ETH для KOVAN TESTNET - Спроси в Нашем Сообществе Telegram или Slack.`
 
