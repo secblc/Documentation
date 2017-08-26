@@ -40,9 +40,9 @@ Blind Croupier is a **gambling software development company** [Business to bus
   * [Description](#description)
   * [Mobile Casino](#mobile-casino)
   * [Operation under BlindCroupier license](#operation-under-blindcroupier-license)
-- [The Blind Jackpot Fund](#the-blind-jackpot-fund)
-  * [BlindJackpot Main Features](#blindjackpot-main-features)
-  * [Jackpot Winner Determining Algorithm](#jackpot-winner-determining-algorithm)
+  * [The Blind Jackpot Fund](#the-blind-jackpot-fund)
+     + [BlindJackpot Main Features](#blindjackpot-main-features)
+     + [Jackpot Winner Determining Algorithm](#jackpot-winner-determining-algorithm)
   
 
 # Introduction
@@ -107,7 +107,7 @@ Having placed a bet, the player pushes the "Deal" button and receives five cards
 | Jacks or Better  |  1 | 2  |  3 |  4 | 5  |
 | **PAYOUTS** | 98,05%  | 98,05%  |  98,05% | 98,05%  |  99,54% |
 
-# Alghoritm Implementation
+## Alghoritm Implementation
 
 The Player and the Croupier first generate a key pair of a private and a public key and submit the public key to the Bank. This operation uses 1 blockchain transaction, but must be completed only once. After it is done, all commands issued by any side (Player or Croupier) are signed by the private key of the corresponding side. The signature can then be validated by any party.
 
@@ -171,7 +171,7 @@ After both seeds are published (1 Croupier seed and 1 Player seed), we mix them 
 <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> **Our solution:** The Croupier's bankroll is stored in the Bank, which is an Ethereum smart contract. All the funds of a smart contract are public and can be validated by anyone.
 
 
-# Technologies and Methodologies
+## Technologies and Methodologies
 
 In development, we use the latest tech and methodological stack. The main programming languages used in our project are JavaScript (ECMAScript 6) and Solidity 0.4.11. Initially we write all the smart contracts code in specially designed iSolidity language, which is compiled into normal Solidity code. We designed iSolidity and implemented iSolidity to Solidity compiler to solve some major problems of Solidity (like the inability to pass structures and arrays of structures to and from a contract). For smart contract development we use the [Truffle framework](https://truffleframework.com). We are unit-testing with [Mocha](https://mochajs.org) and [Chai](https://chaijs.com). For source code transpiring we use [Babel](https://babeljs.io). We stick to the strict source code style and validity by using [ESLint](eslint.org). We use [solc](https://github.com/ethereum/solidity) for the smart contract compilation. For Player-Croupier API building we use [Swagger](http://swagger.io/) and [Express framework](https://expressjs.com/). We use [Webpack](https://webpack.github.io/) for packaging and optimizing the source code.
 
@@ -185,13 +185,13 @@ Tracker](https://pivotaltracker.com), Discord, Slack. To control the source code
 <img align="right" src="https://user-images.githubusercontent.com/31250469/29623975-90b6bf8c-885a-11e7-95de-95373af94e8b.png" width="470">
 Online gaming, or gambling, is the wagering of something of value, usually money, on the outcome of an event or game using the internet. Online gaming includes such activities as poker, casinos (where people can play traditional casino games, like roulette or blackjack, but online), sports betting, bingo and lotteries. Of these, casino games and sports betting make up the largest share of the market. The market volume of online gaming was forecasted to reach 51.96 billion U.S. dollars in 2018, more than doubling since 2009. 
 
-# House Edge or Casino's Revenue
+## House Edge or Casino's Revenue
 
 A casino's revenue is formed from the house edge. The house edge is defined as the ratio of the average loss to the initial bet. The house edge is not the ratio of money lost to total money wagered. We will develop games with different house edges. These include games with minimal house advantages requiring skills to play: video poker, the house edge, given a player sticks to the best strategy possible, is 0.46%, for blackjack — 0.28% and the most popular games, in which success depends heavily on a player's luck: For roulette the house edge is 2.7%, for videoslots — 1-10%.
 
 > **For example:** Games like Roulette, the “Edge” is achieved by the casino paying slightly less than the “true” odds for a particular bet. For example, the true odds for a single Roulette number to win are 36 to 1, since there are 37 compartments on the wheel. However, winning bets are actually paid at 35 to 1. Therefore the house advantage is equal to 1/37*100 = 2.7%. In theory after 10 spins, betting 1 unit per spin, the average house profit will be 10 x 1 x 2.76% = 0.27 units. Of course, the casino may not win exactly 0.27 units; this figure is the average casino profit from each player if it had millions of players each betting for 10 spins at 1 unit per spin.
 
-# Turnkey Solution For Operators Casino 
+## Turnkey Solution For Operators Casino 
 
 Blind Croupier solutions are not for a single casino, but for many casinos working together with the same software. To the casino operators, we guarantee a modern platform, all available games, and the ability to process transactions using our gambling license as soon as possible (everything is already done). We require minimum investment from a casino owners and little effort to launch a project. To begin, they will only need to develop a casino's design and a marketing plan (which is what Blind Croupier would help with) - and that's it, they can serve the clients in their own new generation casino.
 
@@ -281,7 +281,7 @@ Mobile casinos actually represent a brand new craze of online casino industry (R
 
 The main reason preventing us from delivering our products at a global level is Ethereum's lack of recognition outside the blockchain community. There needs to be a way to deposit funds more conveniently. To achieve this one must acquire a gambling license. We are going to get one and introduce the sale of BlindChips online by using traditional payment methods: credit cards and payment systems. This has nothing to do with gameplay fairness and transparency. For the casino owners this means there is no need to get a gambling license because all the payments are processed by Blind Croupier.
 
-# The Blind Jackpot Fund 
+## The Blind Jackpot Fund 
 
 Any casino, using Blind Croupier software can choose a set of games to connect to the BlindJackpot fund. A percentage of bets placed will be automatically put into it. The percent transferred is 1/5 of the house edge of the specific game.
 
@@ -290,7 +290,7 @@ Any casino, using Blind Croupier software can choose a set of games to connect t
 The chance of winning the jackpot depends on the number of transactions made to the Fund the player has made *(the more transactions made, the larger the Fund's share is and the higher the chance is)*. **Only high-bidders can deposit to the Fund.**
 
 
-## The Blind Jackpot Fund is divided into three prize funds:
+### The Blind Jackpot Fund is divided into three prize funds:
 
 The prize fund is built in a way that money are always accumulated, so the fund doesn't deplete but rather move from cycle to cycle.
 
@@ -306,7 +306,7 @@ The prize fund is built in a way that money are always accumulated, so the fund 
 *Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.*
 
 
-## BlindJackpot Main Features
+### BlindJackpot Main Features
 * **Cycles:** For the long time players are not excited by the low-chance large-sized jackpots. In the BlindJackpot fund money don't accumulate for ages, instead there are cycles with certain time periods. Everyone knows the moment a new winner is determined. The cycle lasts for 28 days, after that all the "tickets" are destroyed and the rest of the money is moved into the next cycle. Working this way we hope to reach the balance between the jackpot's size and the probability of winning.
 
 * **The teamwork** - the BlindJackpot fund is an excellent opportunity for the competitive casinos to cooperate. Collectively, giving away a small percentage of the revenue they can achieve a really impressive prize fund. The player's chance to win is the same independent of the specific casino he is playing in.
@@ -317,7 +317,7 @@ The prize fund is built in a way that money are always accumulated, so the fund 
 
 * **Player Motivation and Syndicates creation** - the BlindJackpot Fund is created to motivate player to place larger bets rather than the required size thus increasing the casino's revenue. The main motive for the players are transparency and large win possibility. To drive the motivation even more Blind Croupier is going to promote the creation of syndicates. A syndicate gives a higher winning chance in exchange of a small prize share. They can be formed either by a group of people closely connected to each other (relatives, friends) or in specially created communities.
 
-## Jackpot Winner Determining Algorithm
+### Jackpot Winner Determining Algorithm
 
 A winner is determined randomly using a specially designed blockchain-based algorithm. At the moment of writing this document we are inclined to using a [RANDAO](https://github.com/randao/randao) based method. Yet, we leave the possibility to design and implement a totally different fair and transparent system for this purpose.
 
