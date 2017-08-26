@@ -1,21 +1,23 @@
 [<img align="left" src="https://user-images.githubusercontent.com/31250469/29744108-7d887a0e-8ad0-11e7-9211-0fa66836f814.jpg" width="950">](http://blind-croupier.herokuapp.com/)
 `Если ты не знаешь где получить ETH для KOVAN TESTNET - Спроси в Нашем Сообществе Telegram или Slack.`
 
-Посетите наш WebSite: LINK
+# Ресурсы Blind Croupier
 
-Подпишись на нас в Twitter: LINK
+#### WebSite: https://blindcroupier.io/
 
-Читай нашу White Paper: LINK
+#### White Paper Проекта: LINK
 
-Следите за дорожной картой проекта: LINK
+#### Узнай как проверить честность казино: LINK
 
-Узнай больше о работе алгоритма из технической WP: LINK
+#### Узнай больше о работе алгоритма из технической WP: LINK
 
-Узнай как проверить честность казино: LINK
+#### Смарт контракт для распределения токенов WIN: LINK
 
-Участвуй в Баунти кампании: Link
+#### Следите за дорожной картой проекта: LINK
 
-Смарт контракт для распределения токенов WIN: LINK
+#### Blind Croupier в Twitter: LINK
+
+#### Узнай о Баунти кампании: Link
 
 [<img align="left" src="https://user-images.githubusercontent.com/31250469/29744115-d528a428-8ad0-11e7-97e6-bb16bbf286f9.png" width="420">](http://blind-croupier.herokuapp.com/) [<img align="left" src="https://user-images.githubusercontent.com/31250469/29744116-d5fb346a-8ad0-11e7-9f27-f5b41b99ae4a.png" width="420">](http://blind-croupier.herokuapp.com/)
 
