@@ -100,12 +100,12 @@ This stage was devoted to developing the general software concept for a new gene
 
 ## Stage 2: Fall 2017 - Development and Legal
 
-This fall the platform will be developed along with the set of basic games (baccarat, roulette, dice, blackjack). At the same time we will register a company and get a gambling license. We will expand our team to improve the product quality and development speeds. We will start developing the marketing campaign.
+This fall the platform will be developed along with the set of basic games (baccarat, roulette, dice, blackjack). At the same time we will register a company and We will compile and submit the necessary documents for get a gambling license. We will expand our team to improve the product quality and development speeds. We will start developing the marketing campaign.
 
 ## Stage 3: Winter 2017-2018: Testing and Presentation
 
-During Winter 2017, we are going to prepare the platform and the games for the open beta-testing. For the bugs and vulnerabilities found testers are going to get rewards. After that we are going to present the platform and install it along with the games for the 5 winners of the privilege auction. This winter we are going to get a gambling license, after that BlindCroupier casinos will be able to use our merchant account to process Visa/MasterCard payments (and many other popular payment methods), without losing fairness and transparency of Ethereum block chain gambling.
+During Winter 2017, we will prepare the platform and the games for the open beta-testing. For the bugs and vulnerabilities found testers are going to get rewards. After that we will to present the platform and install it along with the games for the 5 winners of the privilege auction. This winter we are going to get a gambling license, after that BlindCroupier casinos will be able to use our merchant account to process Visa/MasterCard payments (and many other popular payment methods), without losing fairness and transparency of Ethereum block chain gambling.
 
 ## Stage 4: Spring-Summer 2018: Advanced Platform and Blind Jackpot Fund
 
-Development and testing: The Blind Jackpot Fund, advanced platform, first video slots set, and optimization of all products for the mobile devices. After the testing is finished, we are going to present the ready product at all main online gambling events. The marketing campaign is to be started and the product launched to the main market.
+Development and testing: The Blind Jackpot Fund, advanced platform, first video slots set, and optimization of all products for the mobile devices. After the testing is finished, we will present the ready product at all main online gambling events. The marketing campaign is to be started and the product launched to the main market.
