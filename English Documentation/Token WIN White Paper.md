@@ -33,7 +33,7 @@
 
 **5,000,000WIN:** This tokens will be transferred to the market maker balance. A market maker is a dealer/bot/broker, storing WIN tokens and making transactions to maintain higher tokens liquidity on the market. 
 
-**5,000,000WIN:** Reserved for the 'bounty' campaign. Tokens are distributed after each period and transferred to the participants' balances each 7 days. Please read more about getting involved into bounty campaign on our site.
+**5,000,000WIN:** Reserved for the 'bounty' campaign. Tokens are distributed after each period and transferred to the participants' balances each 7 days.
 
 **4,000,000WIN:** Reserved for the current and future Blind Croupier advisor. 
 
@@ -90,22 +90,22 @@ The further distribution plan is for reference only. Blind Croupier reserves the
 * 10% legal expenses
 * 20% operating expenses
 
-# Roadmap
+## Roadmap
 
 This document supplies the general development plan, which is to be updated as the project progresses. All the roadmap content is subject to change at any time. The information is for reference only. Blind Croupier doesn't guarantee the information provided in the Roadmap is accurate, which, in turn, is supplied without any guarantee and obligations.
 
-## Stage 1: Spring-Summer 2017 - Minimal Viable Product (MVP)
+### Stage 1: Spring-Summer 2017 - Minimal Viable Product (MVP)
 
 This stage was devoted to developing the general software concept for a new generation casino with three main requirements: quick bet placement, transparency, fair random generation, and creating an MVP. The goal was achieved, you can see the algorithms at work in the Videopoker beta version.
 
-## Stage 2: Fall 2017 - Development and Legal
+### Stage 2: Fall 2017 - Development and Legal
 
 This fall the platform will be developed along with the set of basic games (baccarat, roulette, dice, blackjack). At the same time we will register a company and We will compile and submit the necessary documents for get a gambling license. We will expand our team to improve the product quality and development speeds. We will start developing the marketing campaign.
 
-## Stage 3: Winter 2017-2018: Testing and Presentation
+### Stage 3: Winter 2017-2018: Testing and Presentation
 
 During Winter 2017, we will prepare the platform and the games for the open beta-testing. For the bugs and vulnerabilities found testers are going to get rewards. After that we will to present the platform and install it along with the games for the 5 winners of the privilege auction. This winter we are going to get a gambling license, after that BlindCroupier casinos will be able to use our merchant account to process Visa/MasterCard payments (and many other popular payment methods), without losing fairness and transparency of Ethereum block chain gambling.
 
-## Stage 4: Spring-Summer 2018: Advanced Platform and Blind Jackpot Fund
+### Stage 4: Spring-Summer 2018: Advanced Platform and Blind Jackpot Fund
 
 Development and testing: The Blind Jackpot Fund, advanced platform, first video slots set, and optimization of all products for the mobile devices. After the testing is finished, we will present the ready product at all main online gambling events. The marketing campaign is to be started and the product launched to the main market.
