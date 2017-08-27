@@ -109,3 +109,9 @@ During Winter 2017, we will prepare the platform and the games for the open beta
 ### Stage 4: Spring-Summer 2018: Advanced Platform and Blind Jackpot Fund
 
 Development and testing: The Blind Jackpot Fund, advanced platform, first video slots set, and optimization of all products for the mobile devices. After the testing is finished, we will present the ready product at all main online gambling events. The marketing campaign is to be started and the product launched to the main market.
+
+#### Best regards,
+#### Blind Croupier Team
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29752217-87d61d60-8b8c-11e7-92fc-5ddf220c5c2b.jpg" width="1200">
+
+#### Thank you for attention!
