@@ -259,7 +259,7 @@ The result is published in the last line of the initial server reply:
 We are working on the tool which can independently do the calculations and prove that everything is calculated correctly.
 
 #### Best regards,
-#### Blind Croupier team
+### Blind Croupier team
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752217-87d61d60-8b8c-11e7-92fc-5ddf220c5c2b.jpg" width="1200">
 
 #### Thank you for attention!
