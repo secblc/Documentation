@@ -11,10 +11,7 @@
   * [Stage 2: Development and Legal](#stage-2-fall-2017---development-and-legal) 
   * [Stage 3: Testing and Presentation](#stage-3-winter-2017-2018-testing-and-presentation)
   * [Stage 4: Advanced Platform and Blind Jackpot Fund](#stage-4-spring-summer-2018-advanced-platform-and-blind-jackpot-fund)
-- [How to Participate In The Token Distribution](#how-to-participate-in-the-token-distribution)
-- [How To Claim Tokens](#how-to-claim-tokens) 
-  
-  
+
 # WIN Token Distribution
 
 **WIN Token** - is Blind Croupier project's currency, used to measure other goods and services costs. All participants can use WIN to pay for goods and services of the Blind Croupier project. 
