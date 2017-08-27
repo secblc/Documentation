@@ -3,11 +3,13 @@
 
 # Ресурсы Blind Croupier
 
-[**WebSite Русский:**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md)
+[**WebSite Русский**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md)
 
-[**Telegram Русский Канал**](https://blindcroupier.io/index-ru.html)
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">[**Telegram Русский Канал**](https://blindcroupier.io/index-ru.html)
 
-[**Twitter:**](https://twitter.com/BlindCroupier)
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29752596-b779b930-8b93-11e7-9e3b-7d3e1ec9ae28.jpg" width="25">**WeChat:** blcico
+
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29752590-9785e734-8b93-11e7-8eb3-e5de22b70f97.jpg" width="25">[**Twitter:**](https://twitter.com/BlindCroupier)
 
 [**White Paper English**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md)
 
