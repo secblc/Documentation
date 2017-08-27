@@ -324,3 +324,9 @@ A winner is determined randomly using a specially designed blockchain-based algo
 # Conclusion
 
 Blind Croupier software was developed using the trusted cryptographical methods and blockchain technology, using the best methodologies. It offers a new, previously unreachable level in the online gambling. The software itself is a tool allowing anyone to launch a fair, transparent decentralized new generation casino in a few clicks.
+
+#### Best regards,
+#### Blind Croupier Team
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29752217-87d61d60-8b8c-11e7-92fc-5ddf220c5c2b.jpg" width="1200">
+
+#### Thank you for attention!
