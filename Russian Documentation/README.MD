@@ -21,7 +21,6 @@
 
 #### Bounty: Link
 
-[<img align="left" src="https://user-images.githubusercontent.com/31250469/29744115-d528a428-8ad0-11e7-97e6-bb16bbf286f9.png" width="420">](http://blind-croupier.herokuapp.com/)
-
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752217-87d61d60-8b8c-11e7-92fc-5ddf220c5c2b.jpg" width="1200">
+
 ### С Уважением Команда Blind Croupier
