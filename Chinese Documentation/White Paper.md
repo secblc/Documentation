@@ -95,7 +95,7 @@ Blind Croupier将为在线博彩业开启一扇新的大门，它将为创建您
 ## 大奖验证
 <img align="CENTER" src="https://user-images.githubusercontent.com/31250469/29623932-71033daa-885a-11e7-9eed-66dddae38170.png" width="20"> **问题：** 没有办法验证公布中的奖金额的真实存在。
  
-<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> >**我们的解决方案：** 庄家的资金存放在银行，它是一个以太坊智能合同。智能合同的所有基金都是公众的，任何人可以验证。
+<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> **我们的解决方案：** 庄家的资金存放在银行，它是一个以太坊智能合同。智能合同的所有基金都是公众的，任何人可以验证。
 
 # 技术和方法
 在开发中，我们使用了最新的技术和方法的堆栈。我们项目的主要编程语言为JavaScript（ECMAScript 6）和Solidity 0.4.11。最初我们把所有智能合同代码写入专门设计的isolidity语言，它被编译成普通的Solidity代码。我们设计和应用了isolidity to Solidity编译器以解决Solidity的一些重大问题（如无法让结构和结构的阵列往返于合同）。对于智能合同的开发，我们使用了Truffle框架。我们正利用Mocha 和 Chai进行单元测试。我们利用Babel生成源代码。我们通过利用ESLint坚持严格的源代码风格和有效性。我们使用solc编制智能合同。对于玩家-庄家API的建立，我们使用了Swagger与?Express 框架。我们使用Webpack包装和优化源代码。
