@@ -1,4 +1,4 @@
-[<img align="left" src="https://user-images.githubusercontent.com/31250469/29750914-c36b7026-8b7a-11e7-8b8a-5beb943f48fa.jpg)
+[<img align="left" src="https://user-images.githubusercontent.com/31250469/29750914-c36b7026-8b7a-11e7-8b8a-5beb943f48fa.jpg"  width="1200">])
 `Если ты не знаешь где получить ETH для KOVAN TESTNET - Спроси в Нашем Сообществе Telegram или Slack.`
 
 # Ресурсы Blind Croupier
