@@ -1,4 +1,4 @@
-[<img align="left" src="https://user-images.githubusercontent.com/31250469/29750914-c36b7026-8b7a-11e7-8b8a-5beb943f48fa.jpg" width="1350">](http://blind-croupier.herokuapp.com/)
+[<img align="left" src="https://user-images.githubusercontent.com/31250469/29750942-349ba18a-8b7b-11e7-967e-54558233c762.jpg" width="1350">](http://blind-croupier.herokuapp.com/)
 `Если ты не знаешь где получить ETH для KOVAN TESTNET - Спроси в Нашем Сообществе Telegram или Slack.`
 
 # Ресурсы Blind Croupier
