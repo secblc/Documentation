@@ -3,13 +3,13 @@
 
 # Ресурсы Blind Croupier
 
-* [**WebSite Русский**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md)
-
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">[**Telegram Русский Канал**](https://blindcroupier.io/index-ru.html)
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752596-b779b930-8b93-11e7-9e3b-7d3e1ec9ae28.jpg" width="25">**WeChat:** blcico
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752590-9785e734-8b93-11e7-8eb3-e5de22b70f97.jpg" width="25">[**Twitter:**](https://twitter.com/BlindCroupier)
+
+* [**WebSite Русский**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md)
 
 * [**White Paper English**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md)
 
@@ -25,8 +25,11 @@
 
 * [**Баунти**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%91%D0%B0%D1%83%D0%BD%D1%82%D0%B8%20%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.md)
 
+
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752217-87d61d60-8b8c-11e7-92fc-5ddf220c5c2b.jpg" width="1200">
 
-### С Уважением Команда Blind Croupier
+#### С Наилучшими Пожеланиями,
 
-[<img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">](https://t.me/rublindcroupier) **WeChat:** blcico [<img align="left" src="https://user-images.githubusercontent.com/31250469/29752590-9785e734-8b93-11e7-8eb3-e5de22b70f97.jpg" width="25">](https://twitter.com/BlindCroupier)
+#### Команда Blind Croupier
+
+[<img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">](https://t.me/rublindcroupier) [<img align="left" src="https://user-images.githubusercontent.com/31250469/29752590-9785e734-8b93-11e7-8eb3-e5de22b70f97.jpg" width="25">](https://twitter.com/BlindCroupier)
