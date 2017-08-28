@@ -1,5 +1,5 @@
 [<img align="left" src="https://user-images.githubusercontent.com/31250469/29750942-349ba18a-8b7b-11e7-967e-54558233c762.jpg" width="1350">](https://mvp.blindcroupier.io/)
-`Если ты не знаешь где получить ETH для KOVAN TESTNET - Спроси в Нашем Telegram сообществе`
+`Если У ТЕБЯ НЕТУ ETH НА KOVAN TESTNET - Спроси в Нашем Telegram сообществе`
 
 # Ресурсы Blind Croupier
 
