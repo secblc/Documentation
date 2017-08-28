@@ -1,14 +1,21 @@
 # Game Fairness Check
 
+#游戏源码公平性检查
+ 
 The easies way to check the game fairness is to request hash list from Blind Croupier server. Please note that all the information is requested from Ethereum blockchain.
 
+检查游戏公平性最简单的方法就是从BLC服务器请求哈希列表,请注意所有的信息均由ETHEREUM 区块链发起.
+
+
 Let us create a link: 
+让我们创建一个链接
 
 `http://blind-croupier.herokuapp.com/api/v1/transactions?address=**ADDRESS**&gameId=**GAMEID**`.
 
 You need to put your Ethereum wallet address instead of `**ADDRESS**` and the actual id of the game you played instead of `**GAMEID**`.
-
+您需要用您的以太钱包地址替换`**ADDRESS**`中的内容,并且用您的游戏ID替换 `**GAMEID**`中的内容
 After you open the link, the server responds with the transaction list of the game: bet, seeds, initial hand, replacement order and the final hand:
+重新打开链接,服务器反馈出游戏的所有转账记录,赌注额,种子,交换手,和最终赌注等所有信息.
 
 ```json
 {
@@ -56,11 +63,18 @@ After you open the link, the server responds with the transaction list of the ga
 
 As you can see, it's really easy to retrieve the game from blockchain and check its fairness. We are working on the improved fairness check UI.
 
+正如你所见,返回游戏细节，并且检查游戏的公平性是非常简单的.我们将来会实现一个可视化的简单的公平性检查的交互界面.
+
 # Deep Transaction Study
 
 Deep study requires some advanced tech skills. We are not going to describe basic cryptography or details on some calculations here. You can find extensive explanation in the technical White Paper or ask in the Blind Croupier Slack or Telegram. 
 
+对游戏的深度理解需要一些进阶的编程技术.我们无法在此展示所以基础的更深层次的计算原理.您可以在技术白皮书上查找到更深入的信息或者在BLC团队的SLACK和Telegram上提出问题.
+
 In this guide we are going to briefly describe transactions. To lookup up the method called and its parameters we will use the Etherscan link:
+
+在本指南中我们将使用etherscan链接，我简要描述交易,查找的方法及其参数.
+
 
 `http://kovan.etherscan.io/tx/**TXHASH**`
 
@@ -68,7 +82,7 @@ where `**TXHASH**` is the transaction hash (unique identifier) contained in the 
 
 After opening the link we are mostly interested in the `Input Data` field, which contains function name and arguments list. We will study all the methods use the same algorithm.
 
-## Step One: Bet Made
+## 第一步: Bet Made
 
 To verify bet information, we will need to use the corresponding `txHash` for the `submitBet` method (or `BetSubmitted` event).
 
@@ -110,7 +124,7 @@ And parameter `[3]` is the level:
 0000000000000000000000000000000000000000000000000000000000000001 === 1
 ```
 
-## Step Two: Random Seeds
+## 第二步: Random Seeds
 
 Like we did in the Step One, use the corresponding `txHash` for the method `submitCrouiperSeedAsSignature` (or `CroupierSeedSubmitted` event).
 
@@ -154,7 +168,7 @@ which equals `seed` field in the server provided information
 Other seeds (Croupier 1, Player 0, Player 1) are calculated the same way.
 
 
-## Step Three: Replacement Order
+## 第三步: Replacement Order
 
 Method name: `submitReplacementOrder` (event name: `ReplacementOrderSubmitted`).
 
@@ -258,8 +272,10 @@ The result is published in the last line of the initial server reply:
 
 We are working on the tool which can independently do the calculations and prove that everything is calculated correctly.
 
-#### Thank you for attention!
+即刻反馈参数和进一步计算所有参数的工具，我们正在开发中.
+
+#### 谢谢你们的支持 !
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752217-87d61d60-8b8c-11e7-92fc-5ddf220c5c2b.jpg" width="1200">
 
-#### Best regards,
-#### Blind Croupier team
+#### 美好的祝福,
+#### Blind Croupier 团队
