@@ -1,3 +1,5 @@
+[**English Documentation**](https://github.com/BlindCroupier/Documentation/tree/master/English%20Documentation) | [**中文文件**](https://github.com/BlindCroupier/Documentation/tree/master/Chinese%20Documentation)| [**Русская Документация**](https://github.com/BlindCroupier/Documentation/tree/master/Russian%20Documentation)
+
 [<img align="left" src="https://user-images.githubusercontent.com/31250469/29750942-349ba18a-8b7b-11e7-967e-54558233c762.jpg" width="1350">](https://mvp.blindcroupier.io/)
 `Если У ТЕБЯ НЕТУ ETH НА KOVAN TESTNET - Спроси в Нашем Telegram сообществе`
 
